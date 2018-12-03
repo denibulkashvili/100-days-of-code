@@ -9,9 +9,12 @@ Hello World! I commit to #100DaysOfCode challenge. From now on I will be systema
 
 ![alt text](https://images.unsplash.com/photo-1487721984358-8ecc6e8b412a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ee1792b444331762e87e5ecb870e9de6&auto=format&fit=crop&w=1055&q=80 "Drinking coffee while reading a book an JavaScript")
 
-**Today's Progress**: Was working through FCC Javascript Algorithms. Have completed almost all of the Basic Javascript Challenges. 
+**Today's Progress**: 
+Was working through FCC Javascript Algorithms. Have completed almost all of the Basic Javascript Challenges. 
 
-**Thoughts**  I feel like I need a refresher before getting ready to start a FCC Project Speedrun. Planning to finish them off tomorrow and continue with ES6 section. 
+**Thoughts**:  
+I feel like I need a refresher before getting ready to start a FCC Project Speedrun. Planning to finish them off tomorrow and continue with ES6 section. 
 
 **Link to tweet**
+
 [Day 1](https://twitter.com/denibulkashvili/status/1069686699242835969)
