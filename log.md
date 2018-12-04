@@ -16,5 +16,17 @@ Was working through FCC Javascript Algorithms. Have completed almost all of the 
 I feel like I need a refresher before getting ready to start a FCC Project Speedrun. Planning to finish them off tomorrow and continue with ES6 section. 
 
 **Link to tweet**
-
 [Day 1](https://twitter.com/denibulkashvili/status/1069686699242835969)
+
+## Day 2: Wednesday December 5, 2018
+
+![alt text](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80 "Pretty code")
+
+**Today's Progress**: 
+Continued working on FCC Javascript challenges. Starting to build a Local Weather App as the the first app for my freeCodeCamp Speedrun challenge. Today, looked into setting up developer environemnt with ESLint and Prettier.  
+
+**Thoughts**:  
+I like how npm packages are more intuitive that managing environments in Python. On one hand, Python's virtual environments feel superior to npm's "just put it into one folder" appraoch. You can reuse your envs with different projects, for example. With npm, it's more straightforward, and that's something that pip should learn from.
+
+**Link to tweet**
+[Day 2](https://twitter.com/denibulkashvili/status/1070035288112619520)
