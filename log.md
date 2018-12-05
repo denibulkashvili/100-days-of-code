@@ -1,11 +1,12 @@
 # 100 Days Of Code
 
-Hello World! I commit to #100DaysOfCode challenge. From now on I will be systematically coding for at least 1 hour a day and documenting my progress on [GitHub](https://github.com/denibulkashvili/100-days-of-code) and [Twitter](https://twitter.com/denibulkashvili). 
-
 ![alt text](https://images.unsplash.com/photo-1502101872923-d48509bff386?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=35625917f435e0e3f2bca2dd7f2cf28f&auto=format&fit=crop&w=1189&q=80 "toddler's standing in front of beige concrete stair")
 
+Hello World! I commit to #100DaysOfCode challenge. From now on I will be systematically coding for at least 1 hour a day and documenting my progress on [GitHub](https://github.com/denibulkashvili/100-days-of-code) and [Twitter](https://twitter.com/denibulkashvili). 
 
-## Day 1: Tuesday December 4, 2018
+
+
+## Day 1: Monday December 3, 2018
 
 ![alt text](https://images.unsplash.com/photo-1487721984358-8ecc6e8b412a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ee1792b444331762e87e5ecb870e9de6&auto=format&fit=crop&w=1055&q=80 "Drinking coffee while reading a book an JavaScript")
 
@@ -18,7 +19,7 @@ I feel like I need a refresher before getting ready to start a FCC Project Speed
 **Link to tweet**
 [Day 1](https://twitter.com/denibulkashvili/status/1069686699242835969)
 
-## Day 2: Wednesday December 5, 2018
+## Day 2: Tuesday December 4, 2018
 
 ![alt text](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80 "Pretty code")
 
@@ -30,3 +31,16 @@ I like how npm packages are more intuitive that managing environments in Python.
 
 **Link to tweet**
 [Day 2](https://twitter.com/denibulkashvili/status/1070035288112619520)
+
+## Day 3: Wednesday December 5, 2018
+
+![alt text](https://pbs.twimg.com/media/DLK0ckwXUAMzKu1.jpg "One does not simply vertical-align in CSS")
+
+**Today's Progress**: 
+Starting my FCC Speedrun steadily. Went through Bootstrap docs. Created basic html/css layout for the Local Weather App. 
+
+**Thoughts**:  
+Bootstrap documentation is really great. But working with CSS can be frustrating sometimes. 
+
+**Link to tweet**
+[Day 2](https://twitter.com/denibulkashvili/status/1070408589523603456)
