@@ -43,4 +43,17 @@ Starting my FCC Speedrun steadily. Went through Bootstrap docs. Created basic ht
 Bootstrap documentation is really great. But working with CSS can be frustrating sometimes. 
 
 **Link to tweet**
-[Day 2](https://twitter.com/denibulkashvili/status/1070408589523603456)
+[Day 3](https://twitter.com/denibulkashvili/status/1070408589523603456)
+
+## Day 4: Thursday December 5, 2018
+
+![alt text](http://www.quickmeme.com/img/40/403de9ada666151e7546e527d707a96077f3ecc56febfd29312422ca1845d4a3.jpg "You want to hear a JavaScript joke? I'll callback later")
+
+**Today's Progress**: 
+Learned about Callbacks, Promises and Async/Await.  
+
+**Thoughts**:  
+Async/await looks like a cleaner, more elegant use of promises. I like it 
+
+**Link to tweet**
+[Day 4](https://twitter.com/denibulkashvili/status/1070762925265059841)
