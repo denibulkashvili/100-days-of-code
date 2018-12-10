@@ -57,3 +57,16 @@ Async/await looks like a cleaner, more elegant use of promises. I like it
 
 **Link to tweet**
 [Day 4](https://twitter.com/denibulkashvili/status/1070762925265059841)
+
+## Day 5: Monday December 10, 2018
+
+![alt text](https://images.unsplash.com/photo-1527685216219-c7bee79b0089?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80 "Working on code")
+
+**Today's Progress**: 
+Finished Basic Javascript Challenges, was learning about Node and Express, Local Weather app is almost finished.  
+
+**Thoughts**:  
+... 
+
+**Link to tweet**
+[Day 5](https://twitter.com/denibulkashvili/status/1072188802494488577)
