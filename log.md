@@ -70,3 +70,16 @@ Finished Basic Javascript Challenges, was learning about Node and Express, Local
 
 **Link to tweet**
 [Day 5](https://twitter.com/denibulkashvili/status/1072188802494488577)
+
+## Day 6: Wednesday December 12, 2018
+
+![alt text](https://english.cyprustimes.com/wp-content/uploads/sites/8/2017/05/cyprus-weather.jpg "Sunny weather")
+
+**Today's Progress**: 
+Finished Local Weather App  
+
+**Thoughts**:  
+Learned a lot about callbacks and promises.
+
+**Link to tweet**
+[Day 6](https://twitter.com/denibulkashvili/status/1073041905192132609)
