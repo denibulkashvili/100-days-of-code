@@ -83,3 +83,14 @@ Learned a lot about callbacks and promises.
 
 **Link to tweet**
 [Day 6](https://twitter.com/denibulkashvili/status/1073041905192132609)
+
+## Day 7: Thursday December 13, 2018
+
+**Today's Progress**: 
+Dived into ES6, React and started working on Pomodoro App.   
+
+**Thoughts**:  
+
+
+**Link to tweet**
+[Day 7(https://twitter.com/denibulkashvili/status/1073307786669223936)
