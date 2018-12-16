@@ -93,4 +93,15 @@ Dived into ES6, React and started working on Pomodoro App.
 
 
 **Link to tweet**
-[Day 7(https://twitter.com/denibulkashvili/status/1073307786669223936)
+[Day 7](https://twitter.com/denibulkashvili/status/1073307786669223936)
+
+## Day 8: Sunday December 16, 2018
+
+**Today's Progress**: 
+Finished ES6 section on #freeCodeCamp, continued working on my Pomodoro app and also worked on a Twitter bot to keep my Python skills sharp. 
+
+**Thoughts**:  
+
+
+**Link to tweet**
+[Day 8](https://twitter.com/denibulkashvili/status/1074372289989230592)
