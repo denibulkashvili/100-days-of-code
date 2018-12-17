@@ -105,3 +105,16 @@ Finished ES6 section on #freeCodeCamp, continued working on my Pomodoro app and 
 
 **Link to tweet**
 [Day 8](https://twitter.com/denibulkashvili/status/1074372289989230592)
+
+## Day 9: Sunday December 17, 2018
+
+![alt text](https://img.devrant.com/devrant/rant/r_1413973_eX38n.jpg "Types of headache")
+
+**Today's Progress**: 
+Spent a lot of time working on Pomodoro app in React and how it should move data around between components, getting child components pass events up to the grandparent component is especially frustrating.  
+
+**Thoughts**:  JavaScript can be frustrating sometimes. Maybe I need a short break from it. 
+
+
+**Link to tweet**
+[Day 9](https://twitter.com/denibulkashvili/status/1074771327741906944)
