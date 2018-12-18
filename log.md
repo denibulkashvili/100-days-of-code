@@ -106,7 +106,7 @@ Finished ES6 section on #freeCodeCamp, continued working on my Pomodoro app and 
 **Link to tweet**
 [Day 8](https://twitter.com/denibulkashvili/status/1074372289989230592)
 
-## Day 9: Sunday December 17, 2018
+## Day 9: Monday December 17, 2018
 
 ![alt text](https://img.devrant.com/devrant/rant/r_1413973_eX38n.jpg "Types of headache")
 
@@ -115,6 +115,17 @@ Spent a lot of time working on Pomodoro app in React and how it should move data
 
 **Thoughts**:  JavaScript can be frustrating sometimes. Maybe I need a short break from it. 
 
-
 **Link to tweet**
 [Day 9](https://twitter.com/denibulkashvili/status/1074771327741906944)
+
+## Day 10: Tuesday December 18, 2018
+
+![alt text](https://code.fb.com/wp-content/uploads/2017/06/Facebook-Messenger-Bot-01.png "Bot")
+
+**Today's Progress**: 
+Finished the script for a twitter bot and deployed it! Feels good making progress in projects
+
+**Thoughts**:  
+
+**Link to tweet**
+[Day 10](https://twitter.com/denibulkashvili/status/1075125569178587141)
