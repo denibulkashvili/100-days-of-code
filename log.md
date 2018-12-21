@@ -129,3 +129,23 @@ Finished the script for a twitter bot and deployed it! Feels good making progres
 
 **Link to tweet**
 [Day 10](https://twitter.com/denibulkashvili/status/1075125569178587141)
+
+## Day 11: Wednesday December 19, 2018
+
+**Today's Progress**: 
+Didn't do much coding today, so did some FCC challenges at least to count it day.
+
+**Thoughts**:  
+
+**Link to tweet**
+[Day 11](https://twitter.com/denibulkashvili/status/1075624508726210560)
+
+## Day 12: Thursday December 20, 2018
+
+**Today's Progress**: 
+Continued working on a pomodoro app, learned about using getters and setters, and deploying React apps to Heroku (which is pretty damn easy compared to struggles I had with Django apps)
+
+**Thoughts**:  create-react-app + setting up Github pipeline makes deployment a one-click routing. Perhaps we need create-django-app? 
+
+**Link to tweet**
+[Day 12](https://twitter.com/denibulkashvili/status/1075624508726210560)
