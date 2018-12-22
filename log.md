@@ -149,3 +149,13 @@ Continued working on a pomodoro app, learned about using getters and setters, an
 
 **Link to tweet**
 [Day 12](https://twitter.com/denibulkashvili/status/1075624508726210560)
+
+## Day 13: Friday December 21, 2018
+
+**Today's Progress**: 
+Practiced regular expressions in JavaScript. 
+
+**Thoughts**:  
+
+**Link to tweet**
+[Day 13](hhttps://twitter.com/denibulkashvili/status/1076362437232799744)
