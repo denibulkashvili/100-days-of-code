@@ -158,4 +158,16 @@ Practiced regular expressions in JavaScript.
 **Thoughts**:  
 
 **Link to tweet**
-[Day 13](hhttps://twitter.com/denibulkashvili/status/1076362437232799744)
+[Day 13](https://twitter.com/denibulkashvili/status/1076362437232799744)
+
+## Day 14: Saturday December 22, 2018
+
+![alt text](http://devhumor.com/content/uploads/images/March2017/regex.png "Regex dog")
+
+**Today's Progress**: 
+Actually spent two days practicing regular expressions, still feel fuzzy about them. 
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 14](https://twitter.com/denibulkashvili/status/1076569586546311168)
