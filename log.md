@@ -171,3 +171,15 @@ Actually spent two days practicing regular expressions, still feel fuzzy about t
 
 **Link to tweet**
 [Day 14](https://twitter.com/denibulkashvili/status/1076569586546311168)
+
+## Days 15-16: Mon-Tue December 24-25, 2018
+
+![alt text](http://www.quickmeme.com/img/a6/a6eff57aaa8872b49f587035fb3fa00d6b122fe6952b2fb5f19cd7a45331ff03.jpg "Try Pomodoro Technique Don't bother with breaks")
+
+**Today's Progress**: 
+Almost competed the pomodoro app, only missing a few fixes. Picked up great speed in the past two days. 
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 14](https://twitter.com/denibulkashvili/status/1077730007986794496)
