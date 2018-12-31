@@ -184,7 +184,7 @@ Almost competed the pomodoro app, only missing a few fixes. Picked up great spee
 **Link to tweet**
 [Day 15-16](https://twitter.com/denibulkashvili/status/1077730007986794496)
 
-## Days 17-18: Mon-Tue December 28-29, 2018
+## Days 17-18: Fri-Sat December 28-29, 2018
 
 **Today's Progress**: 
 Finished Pomodoro app using React. Started learning about testing in JS projects. Completed data structures and some algorithm challenges at #freeCodeCamp.  
@@ -193,3 +193,13 @@ Finished Pomodoro app using React. Started learning about testing in JS projects
 
 **Link to tweet**
 [Day 17-18](https://twitter.com/denibulkashvili/status/1079094212572766208)
+
+## Days 19: Sunday December 30, 2018
+
+**Today's Progress**: 
+Was learning about testing React components with Jest and Enzyme. 
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 19](https://twitter.com/denibulkashvili/status/1079575891192164353)
