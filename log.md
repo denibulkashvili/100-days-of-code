@@ -203,3 +203,15 @@ Was learning about testing React components with Jest and Enzyme.
 
 **Link to tweet**
 [Day 19](https://twitter.com/denibulkashvili/status/1079575891192164353)
+
+## Days 20: Thursday January 3, 2019
+
+![alt text](https://pbs.twimg.com/media/DwBUUiZVYAA580u.jpg:large "Tests won't fail if you don't write tests.")
+
+**Today's Progress**: 
+After a few-days break over the holidays, went back to learning testing with Jest and Enzyme. Feeling more comfortable and appreciative of their logical and readable API. It's rewarding to see your test cases pass.  
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 20](https://twitter.com/denibulkashvili/status/1080956642114424832)
