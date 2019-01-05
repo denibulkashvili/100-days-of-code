@@ -227,3 +227,13 @@ Published my first ever post on Medium reporting my experience building Pomodoro
 
 **Link to tweet**
 [Day 21](https://twitter.com/denibulkashvili/status/1081496707542671360)
+
+## Days 22: Saturday January 5, 2019
+
+**Today's Progress**: 
+Started a new project as a playground to practice building Django apps with React as a front-end. Working on creating simple API with Django Rest Framework. 
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 22](https://twitter.com/denibulkashvili/status/1081496707542671360)
