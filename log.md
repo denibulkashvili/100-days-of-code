@@ -215,3 +215,15 @@ After a few-days break over the holidays, went back to learning testing with Jes
 
 **Link to tweet**
 [Day 20](https://twitter.com/denibulkashvili/status/1080956642114424832)
+
+## Days 21: Friday January 4, 2019
+
+![alt text](https://github.com/denibulkashvili/static/blob/master/pomodoro.JPG?raw=true "Pomodoro app")
+
+**Today's Progress**: 
+Published my first ever post on Medium reporting my experience building Pomodoro Clock with React https://medium.com/@denibulkashvili/building-pomodoro-clock-for-fcc-speedrun-c413fb299fb 
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 21](https://twitter.com/denibulkashvili/status/1081496707542671360)
