@@ -236,4 +236,14 @@ Started a new project as a playground to practice building Django apps with Reac
 **Thoughts**: 
 
 **Link to tweet**
-[Day 22](https://twitter.com/denibulkashvili/status/1081496707542671360)
+[Day 22](https://twitter.com/denibulkashvili/status/1081677332467728384)
+
+## Days 23: Tuesday January 8, 2019
+
+**Today's Progress**: 
+Working on a recipe app for #freeCodeCamp project. Setting up Travis for continuous integration and tweaking tests
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 23](https://twitter.com/denibulkashvili/status/1082830647222104065)
