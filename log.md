@@ -248,7 +248,7 @@ Working on a recipe app for #freeCodeCamp project. Setting up Travis for continu
 **Link to tweet**
 [Day 23](https://twitter.com/denibulkashvili/status/1082830647222104065)
 
-## Days 24: Friday January 11, 2019
+## Day 24: Friday January 11, 2019
 
 **Today's Progress**: 
 Worked on CRUD functionality for my Django REST app; digged into ESLint configs. 
@@ -256,4 +256,14 @@ Worked on CRUD functionality for my Django REST app; digged into ESLint configs.
 **Thoughts**: 
 
 **Link to tweet**
-[Day 24](https://twitter.com/denibulkashvili/status/1083924407037321216)
+[Day 25](https://twitter.com/denibulkashvili/status/1083924407037321216)
+
+## Days 25: Saturday January 12, 2019
+
+**Today's Progress**: 
+Had much practice with styled-components.
+
+**Thoughts**:  Getting the hang of it now, but for me it feels like styled-components unnecessary complicate things when it comes to building layouts and placing elements on page (display and margins).
+
+**Link to tweet**
+[Day 25](https://twitter.com/denibulkashvili/status/1084234650116009984)
