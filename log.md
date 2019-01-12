@@ -247,3 +247,13 @@ Working on a recipe app for #freeCodeCamp project. Setting up Travis for continu
 
 **Link to tweet**
 [Day 23](https://twitter.com/denibulkashvili/status/1082830647222104065)
+
+## Days 24: Friday January 11, 2019
+
+**Today's Progress**: 
+Worked on CRUD functionality for my Django REST app; digged into ESLint configs. 
+
+**Thoughts**: 
+
+**Link to tweet**
+[Day 24](https://twitter.com/denibulkashvili/status/1083924407037321216)
