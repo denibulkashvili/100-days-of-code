@@ -266,4 +266,14 @@ Had much practice with styled-components.
 **Thoughts**:  Getting the hang of it now, but for me it feels like styled-components unnecessary complicate things when it comes to building layouts and placing elements on page (display and margins).
 
 **Link to tweet**
-[Day 25](https://twitter.com/denibulkashvili/status/1084234650116009984)
+[Day 26](https://twitter.com/denibulkashvili/status/1084234650116009984)
+
+## Days 26: Sunday January 13, 2019
+
+**Today's Progress**: 
+Did some work on Django REST backend
+
+**Thoughts**:  
+
+**Link to tweet**
+[Day 26](https://twitter.com/denibulkashvili/status/1084624577680990208)
