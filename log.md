@@ -258,7 +258,7 @@ Worked on CRUD functionality for my Django REST app; digged into ESLint configs.
 **Link to tweet**
 [Day 25](https://twitter.com/denibulkashvili/status/1083924407037321216)
 
-## Days 25: Saturday January 12, 2019
+## Day 25: Saturday January 12, 2019
 
 **Today's Progress**: 
 Had much practice with styled-components.
@@ -268,7 +268,7 @@ Had much practice with styled-components.
 **Link to tweet**
 [Day 26](https://twitter.com/denibulkashvili/status/1084234650116009984)
 
-## Days 26: Sunday January 13, 2019
+## Day 26: Sunday January 13, 2019
 
 **Today's Progress**: 
 Did some work on Django REST backend
@@ -277,3 +277,16 @@ Did some work on Django REST backend
 
 **Link to tweet**
 [Day 26](https://twitter.com/denibulkashvili/status/1084624577680990208)
+
+## Day 27: Monday January 14, 2019
+
+![alt text](http://www.quickmeme.com/img/c2/c2213a78f5b8f2c101892a21d535934917f8ff0ced124d55529165778368f19b.jpg "Refactor all the code!")
+
+**Today's Progress**: 
+Decided to go back over past projects and tidy up/refactor
+some of the code.
+
+**Thoughts**:  
+
+**Link to tweet**
+[Day 27](https://twitter.com/denibulkashvili/status/1084994899139878912)
