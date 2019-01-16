@@ -290,3 +290,13 @@ some of the code.
 
 **Link to tweet**
 [Day 27](https://twitter.com/denibulkashvili/status/1084994899139878912)
+
+## Day 28: Tuesday January 15, 2019
+
+**Today's Progress**: 
+Worked on the Recipe app of #FCC, coded some styling features with styled-components. 
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 28](https://twitter.com/denibulkashvili/status/1084994899139878912)
