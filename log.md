@@ -300,3 +300,15 @@ Worked on the Recipe app of #FCC, coded some styling features with styled-compon
 
 **Link to tweet**
 [Day 28](https://twitter.com/denibulkashvili/status/1084994899139878912)
+
+## Day 29: Wednesday January 23, 2019
+
+![alt text](https://www.officense.com/wp-content/uploads/54f0fbd48fba0_-_1-couple-vacation-tropical-lgn.jpg "Vaction")
+
+**Today's Progress**: 
+Had a week-long vacation but managed to put in few hours here and there, worked on the Recipe app for #fcc which involved dealing with styled-components, tests and a bit on the server side.  
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 29](https://twitter.com/denibulkashvili/status/1088134510875619328)
