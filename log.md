@@ -312,3 +312,24 @@ Had a week-long vacation but managed to put in few hours here and there, worked 
 
 **Link to tweet**
 [Day 29](https://twitter.com/denibulkashvili/status/1088134510875619328)
+
+## Day 30: Saturday January 26, 2019
+
+**Today's Progress**: 
+Spent a lot of time going over data structures and algorithms. 
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 30](https://twitter.com/denibulkashvili/status/1089209012883644417)
+
+## Days 31-32: Jan 28-29, 2019
+
+**Today's Progress**: 
+Working on some more algorithms, and doing practice challenges. These
+days was mainly graphs, depth-first and breadth-first searches
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Days 31-32](https://twitter.com/denibulkashvili/status/1090293376254005249)
