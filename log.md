@@ -325,6 +325,8 @@ Spent a lot of time going over data structures and algorithms.
 
 ## Days 31-32: Jan 28-29, 2019
 
+![alt text](https://i.pinimg.com/originals/a9/4e/72/a94e72d0cef3d6883f5acda7fac0a335.jpg "I know algorithms and data structures")
+
 **Today's Progress**: 
 Working on some more algorithms, and doing practice challenges. These
 days was mainly graphs, depth-first and breadth-first searches
