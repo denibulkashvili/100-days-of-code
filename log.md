@@ -335,3 +335,47 @@ days was mainly graphs, depth-first and breadth-first searches
 
 **Link to tweet**
 [Days 31-32](https://twitter.com/denibulkashvili/status/1090293376254005249)
+
+## Day 34: Feb 1, 2019
+
+**Today's Progress**: 
+
+Continue to grind on algorithms. My topic of the day was linked lists and how to deal with them in Python 
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 34](https://twitter.com/denibulkashvili/status/1091581582396162048)
+
+## Day 35: Feb 4, 2019
+
+**Today's Progress**: 
+
+Was working on a jeopardy in React. Was able to implement most of the logic to run the game. What's left to style it to make it look better. Choosing between using a framework or plain CSS.  
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 35](https://twitter.com/denibulkashvili/status/1092734504270057472)
+
+## Day 36: Feb 6, 2019
+
+**Today's Progress**: 
+
+Was helping a fellow developer to work on the web design of his website. Also did some more practice with linked lists implementation in Python. 
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 36](https://twitter.com/denibulkashvili/status/1093181200053628934)
+
+## Day 37: Feb 7, 2019
+
+**Today's Progress**: 
+
+They say the best way to learn something is to teach it. So here is the result of me learning about building linked lists - a jupyter notebook describing what a linked list is and how to implement one with Python (in 3 different ways) https://github.com/denibulkashvili/algorithms-guide-python/blob/master/linked_lists.ipynb
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 37](https://twitter.com/denibulkashvili/status/1093785938969280512)
