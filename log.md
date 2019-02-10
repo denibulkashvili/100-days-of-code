@@ -379,3 +379,14 @@ They say the best way to learn something is to teach it. So here is the result o
 
 **Link to tweet**
 [Day 37](https://twitter.com/denibulkashvili/status/1093785938969280512)
+
+## Day 38: Feb 10, 2019
+
+**Today's Progress**: 
+
+Did some work with a website's frontend, mainly CSS stuff, and completed two algorith practice problems. 
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 38](https://twitter.com/denibulkashvili/status/1094699244525576197)
