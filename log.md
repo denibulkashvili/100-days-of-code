@@ -390,3 +390,36 @@ Did some work with a website's frontend, mainly CSS stuff, and completed two alg
 
 **Link to tweet**
 [Day 38](https://twitter.com/denibulkashvili/status/1094699244525576197)
+
+## Days 39-40: Feb 111-12, 2019
+
+**Today's Progress**: 
+
+Worked on multiple projects for the past two days, both in front and back end. Also getting into habit of cracking at least a couple of algorithm challenges per day
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Days 39-40](https://twitter.com/denibulkashvili/status/1095707621003165696)
+
+## Day 41: Feb 14, 2019
+
+**Today's Progress**: 
+
+Day 41 worked mostly with Django REST Framework
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 41](https://twitter.com/denibulkashvili/status/1096425692428853248)
+
+## Day 42: Feb 15, 2019
+
+**Today's Progress**: 
+
+Making more progress with my Django+React project. Next step - permission and authentication
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 42](https://twitter.com/denibulkashvili/status/1096425692428853248)
