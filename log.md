@@ -423,3 +423,26 @@ Making more progress with my Django+React project. Next step - permission and au
 
 **Link to tweet**
 [Day 42](https://twitter.com/denibulkashvili/status/1096425692428853248)
+
+## Days 43-44: Feb 16-17, 2019
+
+**Today's Progress**: 
+
+Wasn't able to put in a lot of time these past two days, but tried to sit down for at least an hour each and do some coding. 
+Working on API endpoints with Django REST.
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Days 43-44](https://twitter.com/denibulkashvili/status/1097529996648693760)
+
+## Day 45: Feb 22, 2019
+
+**Today's Progress**: 
+
+After a short break, went back to working on Django-React set-up.
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 45](https://twitter.com/denibulkashvili/status/1099125517528121344)
