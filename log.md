@@ -446,3 +446,26 @@ After a short break, went back to working on Django-React set-up.
 
 **Link to tweet**
 [Day 45](https://twitter.com/denibulkashvili/status/1099125517528121344)
+
+## Day 46: Feb 25, 2019
+
+**Today's Progress**: 
+
+Worked on a React app based on Google books API.
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 46](https://twitter.com/denibulkashvili/status/1099125517528121344)
+
+## Day 47: Mar 20, 2019
+
+**Today's Progress**: 
+
+After a lengthy break, resuming #100DaysOfCode logs. Accountability does matter and this challenge definitely improves my productivity.
+Today started learning GraphQL that I would need for my next project.  
+
+<!-- **Thoughts**:   -->
+
+**Link to tweet**
+[Day 47](https://twitter.com/denibulkashvili/status/1108074878987452417)
